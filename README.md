@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o [Seu Nome]!
+# 👋 Olá, eu sou o Gabriel  Pinheiro!
 
 Atualmente curso **Análise e Desenvolvimento de Sistemas (ADS)** na **UNIP** e sou apaixonado por transformar lógica em código. Tenho um foco sólido em Java, com especializações práticas e acadêmicas.
 
