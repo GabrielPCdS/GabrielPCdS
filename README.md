@@ -22,11 +22,12 @@ Estou em busca de oportunidades como estagiário ou desenvolvedor júnior para a
 ---
 
 ### 📫 Como me encontrar:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINK_DO_LINKEDIN_AQUI)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@exemplo.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/gabriel-pinheiro-68b1163a3
+)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](gabriel.pinheirocds@gmail.com)
 
 ---
-
-### 📊 Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=radical)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GabrielPCdS&show_icons=true&theme=radical" alt="Estatísticas do GitHub de Gabriel" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielPCdS&layout=compact&theme=radical" alt="Linguagens mais usadas" height="180em" />
+</p>
